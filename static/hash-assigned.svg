@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="640" height="30">
+  <style>
+    /* <![CDATA[ */
+    text {
+      font-family: 'Helvetica Neue', sans-serif;
+      font-weight: 300;
+      fill: white;
+    }
+    rect {
+      fill: #bbb;
+    }
+    rect.NodeA {
+      fill: #B36AE2;
+    }
+    rect.NodeB {
+      fill: #51A7F9;
+    }
+    rect.NodeC {
+      fill: #70BF41;
+    }
+    rect.NodeD {
+      fill: #F39019;
+    }
+    rect.NodeE {
+      fill: #EC5D57;
+    }
+    /* ]]> */
+  </style>
+  <rect class="NodeC" x="0" y="0" width="9" height="30" />
+  <rect class="NodeE" x="10" y="0" width="9" height="30" />
+  <rect class="NodeA" x="20" y="0" width="9" height="30" />
+  <rect class="NodeB" x="30" y="0" width="9" height="30" />
+  <rect class="NodeC" x="40" y="0" width="9" height="30" />
+  <rect class="NodeD" x="50" y="0" width="9" height="30" />
+  <rect class="NodeE" x="60" y="0" width="9" height="30" />
+  <rect class="NodeA" x="70" y="0" width="9" height="30" />
+  <rect class="NodeB" x="80" y="0" width="9" height="30" />
+  <rect class="NodeC" x="90" y="0" width="9" height="30" />
+  <rect class="NodeD" x="100" y="0" width="9" height="30" />
+  <rect class="NodeE" x="110" y="0" width="9" height="30" />
+  <rect class="NodeA" x="120" y="0" width="9" height="30" />
+  <rect class="NodeB" x="130" y="0" width="9" height="30" />
+  <rect class="NodeC" x="140" y="0" width="9" height="30" />
+  <rect class="NodeD" x="150" y="0" width="9" height="30" />
+  <rect class="NodeE" x="160" y="0" width="9" height="30" />
+  <rect class="NodeA" x="170" y="0" width="9" height="30" />
+  <rect class="NodeB" x="180" y="0" width="9" height="30" />
+  <rect class="NodeC" x="190" y="0" width="9" height="30" />
+  <rect class="NodeD" x="200" y="0" width="9" height="30" />
+  <rect class="NodeE" x="210" y="0" width="9" height="30" />
+  <rect class="NodeA" x="220" y="0" width="9" height="30" />
+  <rect class="NodeB" x="230" y="0" width="9" height="30" />
+  <rect class="NodeC" x="240" y="0" width="9" height="30" />
+  <rect class="NodeD" x="250" y="0" width="9" height="30" />
+  <rect class="NodeE" x="260" y="0" width="9" height="30" />
+  <rect class="NodeA" x="270" y="0" width="9" height="30" />
+  <rect class="NodeB" x="280" y="0" width="9" height="30" />
+  <rect class="NodeC" x="290" y="0" width="9" height="30" />
+  <rect class="NodeD" x="300" y="0" width="9" height="30" />
+  <rect class="NodeE" x="310" y="0" width="9" height="30" />
+  <rect class="NodeA" x="320" y="0" width="9" height="30" />
+  <rect class="NodeB" x="330" y="0" width="9" height="30" />
+  <rect class="NodeC" x="340" y="0" width="9" height="30" />
+  <rect class="NodeD" x="350" y="0" width="9" height="30" />
+  <rect class="NodeE" x="360" y="0" width="9" height="30" />
+  <rect class="NodeA" x="370" y="0" width="9" height="30" />
+  <rect class="NodeB" x="380" y="0" width="9" height="30" />
+  <rect class="NodeC" x="390" y="0" width="9" height="30" />
+  <rect class="NodeD" x="400" y="0" width="9" height="30" />
+  <rect class="NodeE" x="410" y="0" width="9" height="30" />
+  <rect class="NodeA" x="420" y="0" width="9" height="30" />
+  <rect class="NodeB" x="430" y="0" width="9" height="30" />
+  <rect class="NodeC" x="440" y="0" width="9" height="30" />
+  <rect class="NodeD" x="450" y="0" width="9" height="30" />
+  <rect class="NodeE" x="460" y="0" width="9" height="30" />
+  <rect class="NodeA" x="470" y="0" width="9" height="30" />
+  <rect class="NodeB" x="480" y="0" width="9" height="30" />
+  <rect class="NodeC" x="490" y="0" width="9" height="30" />
+  <rect class="NodeD" x="500" y="0" width="9" height="30" />
+  <rect class="NodeE" x="510" y="0" width="9" height="30" />
+  <rect class="NodeA" x="520" y="0" width="9" height="30" />
+  <rect class="NodeB" x="530" y="0" width="9" height="30" />
+  <rect class="NodeC" x="540" y="0" width="9" height="30" />
+  <rect class="NodeD" x="550" y="0" width="9" height="30" />
+  <rect class="NodeE" x="560" y="0" width="9" height="30" />
+  <rect class="NodeA" x="570" y="0" width="9" height="30" />
+  <rect class="NodeB" x="580" y="0" width="9" height="30" />
+  <rect class="NodeC" x="590" y="0" width="9" height="30" />
+  <rect class="NodeD" x="600" y="0" width="9" height="30" />
+  <rect class="NodeE" x="610" y="0" width="9" height="30" />
+  <rect class="NodeA" x="620" y="0" width="9" height="30" />
+  <rect class="NodeB" x="630" y="0" width="10" height="30" />
+</svg>
