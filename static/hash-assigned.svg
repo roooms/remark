@@ -10,19 +10,19 @@
       fill: #bbb;
     }
     rect.NodeA {
-      fill: #B36AE2;
+      fill: #77AADD;
     }
     rect.NodeB {
-      fill: #51A7F9;
+      fill: #88CCAA;
     }
     rect.NodeC {
-      fill: #70BF41;
+      fill: #DDDD77;
     }
     rect.NodeD {
-      fill: #F39019;
+      fill: #DD7788;
     }
     rect.NodeE {
-      fill: #EC5D57;
+      fill: #882255;
     }
     /* ]]> */
   </style>

@@ -7,7 +7,7 @@
       fill: white;
     }
     circle.NodeB {
-      fill: #51A7F9;
+      fill: #88CCAA;
     }
     /* ]]> */
   </style>
