@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="640" height="30">
+  <style>
+    /* <![CDATA[ */
+    text {
+      font-family: 'Helvetica Neue', sans-serif;
+      font-weight: 300;
+      fill: white;
+    }
+    rect {
+      fill: #bbb;
+    }
+    rect.NodeA {
+      fill: #77AADD;
+    }
+    /* ]]> */
+  </style>
+  <rect class="NodeA" x="20" y="0" width="9" height="30" />
+  <rect class="NodeA" x="70" y="0" width="9" height="30" />
+  <rect class="NodeA" x="120" y="0" width="9" height="30" />
+  <rect class="NodeA" x="170" y="0" width="9" height="30" />
+  <rect class="NodeA" x="220" y="0" width="9" height="30" />
+  <rect class="NodeA" x="270" y="0" width="9" height="30" />
+  <rect class="NodeA" x="320" y="0" width="9" height="30" />
+  <rect class="NodeA" x="370" y="0" width="9" height="30" />
+  <rect class="NodeA" x="420" y="0" width="9" height="30" />
+  <rect class="NodeA" x="470" y="0" width="9" height="30" />
+  <rect class="NodeA" x="520" y="0" width="9" height="30" />
+  <rect class="NodeA" x="570" y="0" width="9" height="30" />
+  <rect class="NodeA" x="620" y="0" width="9" height="30" />
+</svg>

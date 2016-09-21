@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="400" height="400">
+  <style>
+    /* <![CDATA[ */
+    text {
+      font-family: 'Helvetica Neue', sans-serif;
+      font-weight: 300;
+      fill: white;
+    }
+    circle.Node {
+      fill: #77AADD;
+      opacity: 0.5;
+    }
+    circle.VNode {
+      fill: #77AADD;
+    }
+    /* ]]> */
+  </style>
+  <circle cx="200" cy="200" r="175" class="Node" />
+  <text text-anchor="middle" x="200" y="75">NodeA</text>
+  <circle cx="125" cy="125" r="24" class="VNode" />
+  <circle cx="125" cy="175" r="24" class="VNode" />
+  <circle cx="125" cy="225" r="24" class="VNode" />
+  <circle cx="125" cy="275" r="24" class="VNode" />
+  <circle cx="175" cy="125" r="24" class="VNode" />
+  <circle cx="175" cy="175" r="24" class="VNode" />
+  <circle cx="175" cy="225" r="24" class="VNode" />
+  <circle cx="175" cy="275" r="24" class="VNode" />
+  <circle cx="225" cy="125" r="24" class="VNode" />
+  <circle cx="225" cy="175" r="24" class="VNode" />
+  <circle cx="225" cy="225" r="24" class="VNode" />
+  <circle cx="225" cy="275" r="24" class="VNode" />
+  <circle cx="275" cy="125" r="24" class="VNode" />
+  <circle cx="275" cy="175" r="24" class="VNode" />
+  <circle cx="275" cy="225" r="24" class="VNode" />
+  <circle cx="275" cy="275" r="24" class="VNode" />
+</svg>
