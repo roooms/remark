@@ -7,7 +7,7 @@
       fill: white;
     }
     rect {
-      fill: #bbb;
+      fill: #BBBBBB;
     }
     rect.NodeA {
       fill: #77AADD;
